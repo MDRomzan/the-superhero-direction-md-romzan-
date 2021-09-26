@@ -1,0 +1,11 @@
+.top-count{
+    color:slateblue;
+}
+.button{
+    background-color:slateblue;
+    border-radius: 10px;
+    border:none;
+    margin: 5px;
+    padding:10px;
+    color:white;
+}

@@ -1,0 +1,12 @@
+.main{
+    display:flex
+
+}
+.left{
+    width:75% ;
+    display:grid ;
+    grid-template-columns: repeat(3fr 1fr);
+}
+.right{
+    width: 25% ;
+}
